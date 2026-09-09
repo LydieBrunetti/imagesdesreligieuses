@@ -1,0 +1,19 @@
+[[main]]
+name = "Corpus"
+pageRef = "/corpus/"
+weight = 10
+
+[[main]]
+name = "Analyse"
+pageRef = "/analyse/"
+weight = 20
+
+[[main]]
+name = "Biographies"
+pageRef = "/biographies/"
+weight = 30
+
+[[main]]
+name = "A propos"
+pageRef = "/about/"
+weight = 40

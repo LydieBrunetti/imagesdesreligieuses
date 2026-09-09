@@ -2,3 +2,5 @@ baseURL = 'https://example.org/'
 locale = 'fr'
 title = 'Images des religieuses'
 theme = 'ananke'
+[privacy.googleAnalytics]
+respectDoNotTrack = true

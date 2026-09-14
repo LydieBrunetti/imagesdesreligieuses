@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Images des religieuses</title>
-		<link>https://example.org/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Tue, 08 Sep 2026 13:14:59 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 13 Sep 2026 13:14:59 +0200</lastBuildDate>
 		
-			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>My First Post</title>
-				<link>https://example.org/corpus/my-first-post/</link>
-				<pubDate>Tue, 08 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://example.org/corpus/my-first-post/</guid>
-				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+				<title>Anne d&#39;Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique</title>
+				<link>http://localhost:1313/corpus/fiche1/</link>
+				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
+				<guid>http://localhost:1313/corpus/fiche1/</guid>
+				<description>Philippe de Champaigne</description>
 			</item>
 	</channel>
 </rss>

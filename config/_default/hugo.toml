@@ -2,5 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'fr'
 title = 'Images des religieuses'
 theme = 'ananke'
+enableRobotsTXT = true
+
 [privacy.googleAnalytics]
 respectDoNotTrack = true

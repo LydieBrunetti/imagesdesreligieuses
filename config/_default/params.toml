@@ -1,2 +1,6 @@
 [ananke]
 show_recent_posts = false
+[params.ananke.pages]
+show_list_images = true
+[params]
+read_more_copy = "Voir la fiche"

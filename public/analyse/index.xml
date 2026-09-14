@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Analyses on Images des religieuses</title>
-		<link>http://localhost:1313/analyse/</link>
+		<link>https://example.org/analyse/</link>
 		<description>Recent content in Analyses on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/analyse/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/analyse/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

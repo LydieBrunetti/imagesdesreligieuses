@@ -4,5 +4,9 @@ title = 'Images des religieuses'
 theme = 'ananke'
 enableRobotsTXT = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [privacy.googleAnalytics]
 respectDoNotTrack = true

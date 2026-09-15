@@ -6,6 +6,6 @@ La base et le jeu de données sont déposés sur Zenodo au DOI suivant : (https:
 
 Attention, les images ne sont pas libres de droit et ne peuvent faire l'objet d'une utilisation commerciale. Merci de se référer à la section "Crédits photographiques" des fiches. 
 
-Lydie Brunetti
-Docteure en Histoire moderne et contemporaine
+Lydie Brunetti  
+Docteure en Histoire moderne et contemporaine  
 Historienne indépendante

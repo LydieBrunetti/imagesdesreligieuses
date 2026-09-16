@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>A propos de l&#39;auteure on Images des religieuses</title>
-		<link>https://example.org/about/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/about/</link>
 		<description>Recent content in A propos de l&#39;auteure on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/about/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

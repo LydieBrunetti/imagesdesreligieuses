@@ -1,6 +1,27 @@
 [ananke]
 show_recent_posts = false
+
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "linkedin",
+  "github",
+  "hal"
+]
+
+[ananke.social.networks.linkedin]
+profile = "http://linkedin.com/in/lydie-brunetti"
+
+[ananke.social.networks.github]
+profile = "https://github.com/lydiebrunetti"
+
+[ananke.social.networks]
+  [ananke.social.networks.hal]
+    slug = "hal"
+    label = "HAL"
+    profile = "https://cv.hal.science/lydie-brunetti" # %s is replaced by your username
+    icon = "hal" # inside assets/ananke/socials/ without .svg
+    link = "https://cv.hal.science/lydie-brunetti"
+
 [params.ananke.pages]
 show_list_images = true
-[params]
-read_more_copy = "Voir la fiche"

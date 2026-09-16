@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lydiebrunetti.github.io/imagesdesreligieuses/'
 locale = 'fr'
 title = 'Images des religieuses'
 theme = 'ananke'
@@ -10,3 +10,9 @@ enableRobotsTXT = true
 
 [privacy.googleAnalytics]
 respectDoNotTrack = true
+
+[menu]
+  [[menu.footer]]
+    name = "Mentions légales"
+    url = "/privacy/"
+    weight = 10

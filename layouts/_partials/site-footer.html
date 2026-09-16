@@ -1,0 +1,15 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+    &copy; Images des religieuses by Lydie Brunetti - Tous droits réservés - Septembre 2026
+  </a>
+  <div class="flex items-center">
+      {{ range .Site.Menus.footer }}
+        <a class="f4 fw4 hover-white no-underline white-70 pv2 ph3" href="{{ .URL }}" title="{{ .Name }}">
+          {{ .Name }}
+        </a>
+      {{ end }}
+    </div>
+    <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+  </div>
+</footer>

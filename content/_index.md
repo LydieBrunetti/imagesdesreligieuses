@@ -19,3 +19,5 @@ Pour contextualiser mon travail et les documents rassemblés, je mets aussi en a
 **Lydie Brunetti**  
 Docteure en Histoire moderne et contemporaine (EPHE/PSL)
 Historienne indépendante
+
+Contact : lydie.brunetti@gmail.com  

@@ -4,9 +4,11 @@ show_recent_posts = false
 [ananke.social.follow]
 new_window_icon = false
 networks = [
+  "email",
   "linkedin",
   "github",
-  "hal"
+  "hal",
+  "orcid"
 ]
 
 [ananke.social.networks.linkedin]
@@ -14,14 +16,25 @@ profile = "http://linkedin.com/in/lydie-brunetti"
 
 [ananke.social.networks.github]
 profile = "https://github.com/lydiebrunetti"
+color = "#fffdfc"
 
 [ananke.social.networks]
   [ananke.social.networks.hal]
     slug = "hal"
     label = "HAL"
+    color = "#ed2b15"
     profile = "https://cv.hal.science/lydie-brunetti" # %s is replaced by your username
     icon = "hal" # inside assets/ananke/socials/ without .svg
     link = "https://cv.hal.science/lydie-brunetti"
+
+    [ananke.social.networks.orcid]
+    slug = "orcid"
+    label = "ORCID"
+    color = "#6cc644"
+    profile = "https://orcid.org/0009-0009-7147-5760" # %s is replaced by your username
+    icon = "orcid" # inside assets/ananke/socials/ without .svg
+    link = "https://orcid.org/0009-0009-7147-5760"
+
 
 [params.ananke.pages]
 show_list_images = true

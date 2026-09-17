@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Images des religieuses</title>
-		<link>http://localhost:1313/imagesdesreligieuses/</link>
+		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/</link>
 		<description>Recent content on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 13:14:59 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/imagesdesreligieuses/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Anne d&#39;Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique</title>
-				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche1/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche1/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche1/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche1/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>Mentions légales</title>
-				<link>http://localhost:1313/imagesdesreligieuses/privacy/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/privacy/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/privacy/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/privacy/</guid>
 				<description>&lt;p&gt;Le site internet &amp;ldquo;Images des religieuses&amp;rdquo; (&lt;a href=&#34;https://lydiebrunetti.github.io/imagesdesreligieuses/&#34;&gt;https://lydiebrunetti.github.io/imagesdesreligieuses/&lt;/a&gt;) a pour objet de présenter le travail de recherche de Lydie Brunetti. Elle s’efforce de fournir sur le site des informations aussi précises que possible. Toutefois, elle ne pourra être tenue responsable des oublis, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations. Toutes les informations indiquées sur le site sont données à titre indicatif, sont susceptibles d’évoluer et ne sont pas exhaustives. Elle sont données sous réserve de modifications ayant été apportées depuis leur mise en ligne.&lt;/p&gt;</description>
 			</item>
 	</channel>

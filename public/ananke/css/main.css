@@ -7318,6 +7318,14 @@ p code {
   fill: #0077b5 !important;
 }
 .ananke-socials a.github:hover {
+  color: #fffdfc !important;
+  fill: #fffdfc !important;
+}
+.ananke-socials a.hal:hover {
+  color: #ed2b15 !important;
+  fill: #ed2b15 !important;
+}
+.ananke-socials a.orcid:hover {
   color: #6cc644 !important;
   fill: #6cc644 !important;
 }

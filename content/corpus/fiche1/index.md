@@ -1,6 +1,7 @@
 +++
 date = '2026-09-13T13:14:59+02:00'
 title = "Anne d'Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique"
+categories = ["Bénédictines", "Fondatrice", "XVIIe siècle"]  
 summary = "Philippe de Champaigne"
 read_more_copy = "Voir la fiche"
 +++
@@ -27,7 +28,7 @@ read_more_copy = "Voir la fiche"
 
 **Lieu de conservation actuel** : Musée national des châteaux de Versailles et de Trianon. Numéro d'inventaire : MV 3440 ; INV 1168 ; LP 294.
 
-**Lieu de séjour/d'exposition initial** : Appartement d'Anne d'Autriche au Val de Grâce.
+**Lieu de séjour/d'exposition initial** : Appartement d'Anne d'Autriche à l'abbaye du Val de Grâce.
 
 **Ordre** : Bénédictin
 
@@ -39,13 +40,12 @@ read_more_copy = "Voir la fiche"
 
 **Autres personnages laïcs** : Anne d'Autriche ; Louis XIV ; Philippe d'Orléans
 
-**Commentaires** : La commanditaire est Anne d'Autriche pour son appartement au Val-de-Grâce.
+**Commentaires** : La commanditaire est Anne d'Autriche pour son appartement à l'abbaye du Val-de-Grâce. Elle a l'habitude d'effectuer des retraites spirituelles dans cette abbaye parisienne de bénédictines.
 La reine Anne d'Autriche et ses enfants Louis XIV et Philippe, duc d'Anjou, sont représentés en prière en grands costumes royaux, présentés par saint Benoît et sainte Scholastique à la Sainte-Trinité.
 Ancien propriétaire : Delambre. Acquis en 1833 par le musée national du Château de Versailles.
 
 
-**Crédits photographiques** : © Réunion des musées nationaux - utilisation soumise à autorisation.
-© RMN-Grand Palais (Château de Versailles) / Gérard Blot.
+**Crédits photographiques** : © Réunion des musées nationaux - Grand Palais (Château de Versailles) / Gérard Blot.
 Cote cliché : 06-519213.
 
 **Références bibliographiques** : SOULIE Eudore, Notices du musée national de Versailles, 1re partie : rez-de-chaussée, Paris, C. de Mourgues frères, 1880 (3e éd.). N° 3440. 

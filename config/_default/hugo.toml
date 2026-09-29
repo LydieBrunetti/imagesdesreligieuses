@@ -16,3 +16,6 @@ respectDoNotTrack = true
     name = "Mentions légales"
     url = "/privacy/"
     weight = 10
+
+[taxonomies]
+  category = "categories"

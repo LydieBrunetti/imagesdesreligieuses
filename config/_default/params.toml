@@ -1,5 +1,6 @@
 [ananke]
 show_recent_posts = false
+show_categories = true # show categories terms on single pages
 
 [ananke.social.follow]
 new_window_icon = false

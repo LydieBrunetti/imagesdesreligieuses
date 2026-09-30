@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <section class="index-terms-container flex-l mw7 center ph3 flex-wrap">
+    <p class="f2 athelas mv5 mid-gray">Parcourir le corpus par mots-clés :</p>
+
+    <ul class="terms-cloud">
+      <!-- .Data.Terms contient la liste de tous les termes et leurs œuvres -->
+      {{ range .Data.Terms.ByCount }}
+        <li class="term-item mv3">
+          <a href="{{ .Page.RelPermalink }}" class="f4 athelas">
+            <span class="term-name">{{ .Page.Title }}</span>
+            <span class="term-count">({{ .Count }})</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}

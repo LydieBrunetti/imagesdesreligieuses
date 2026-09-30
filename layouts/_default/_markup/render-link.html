@@ -1,0 +1,7 @@
+{{ $link := .Destination }}
+{{ if strings.HasPrefix $link "index:" }}
+  {{ $term := strings.TrimPrefix "index:" $link }}
+  <a href="{{ "index/" | relURL }}{{ $term | urlize }}/" class="index-link">{{ .Text }}</a>
+{{ else }}
+  <a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{ end }} 

@@ -2,6 +2,7 @@
 date = '2026-09-13T13:14:59+02:00'
 title = "Anne d'Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique"
 categories = ["Bénédictines", "Fondatrice", "XVIIe siècle"]  
+index = ["Sainte Scholastique", "Saint Benoît", "Anne d'Autriche", "Louis XIV", "Philippe de Champaigne"] 
 summary = "Philippe de Champaigne"
 read_more_copy = "Voir la fiche"
 +++
@@ -10,7 +11,7 @@ read_more_copy = "Voir la fiche"
 
 **Titre** : Anne d'Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique
 
-**Auteur principal** : Philippe de Champaigne 
+**Auteur principal** : [Philippe de Champaigne](index:Philippe-de-Champaigne) 
 
 **Profession** : Peintre 
 
@@ -32,13 +33,13 @@ read_more_copy = "Voir la fiche"
 
 **Ordre** : Bénédictin
 
-**Nom de la religieuse 1** : Sainte Scholastique 
+**Nom de la religieuse** : [Sainte Scholastique](index:Sainte-Scholastique)  
 
-**Statut de la religieuse 1** : Abbesse et fondatrice traditionnelle des moniales bénédictines.
+**Statut de la religieuse** : Abbesse et fondatrice traditionnelle des moniales bénédictines.
 
-**Autres personnages religieux** : Saint Benoît
+**Autres personnages religieux** : [Saint Benoît](index:Saint-Benoît)
 
-**Autres personnages laïcs** : Anne d'Autriche ; Louis XIV ; Philippe d'Orléans
+**Autres personnages laïcs** : [Anne d'Autriche](index:Anne-d'Autriche) ; [Louis XIV](index:Louis-XIV) ; Philippe d'Orléans
 
 **Commentaires** : La commanditaire est Anne d'Autriche pour son appartement à l'abbaye du Val-de-Grâce. Elle a l'habitude d'effectuer des retraites spirituelles dans cette abbaye parisienne de bénédictines.
 La reine Anne d'Autriche et ses enfants Louis XIV et Philippe, duc d'Anjou, sont représentés en prière en grands costumes royaux, présentés par saint Benoît et sainte Scholastique à la Sainte-Trinité.
@@ -48,9 +49,11 @@ Ancien propriétaire : Delambre. Acquis en 1833 par le musée national du Châte
 **Crédits photographiques** : © Réunion des musées nationaux - Grand Palais (Château de Versailles) / Gérard Blot.
 Cote cliché : 06-519213.
 
-**Références bibliographiques** : SOULIE Eudore, Notices du musée national de Versailles, 1re partie : rez-de-chaussée, Paris, C. de Mourgues frères, 1880 (3e éd.). N° 3440. 
+**Références bibliographiques** : SOULIE Eudore, _Notices du musée national de Versailles, 1re partie : rez-de-chaussée_, Paris, C. de Mourgues frères, 1880 (3e éd.). N° 3440. 
 
-CONSTANS Claire, Musée national du château de Versailles, catalogue des peintures, Paris, 1980, n° 762.
+CONSTANS Claire, _Musée national du château de Versailles, catalogue des peintures_, Paris, 1980, n° 762.
 
-HEURTEBIZE Benjamin et TRIGER Robert, Sainte Scholastique, Patronne du Mans, Paris, Impression Saint-Pierre, Solesmes et Victor Retaux, 1897, p.483-484.
+HEURTEBIZE Benjamin et TRIGER Robert, _Sainte Scholastique, Patronne du Mans_, Paris, Impression Saint-Pierre, Solesmes et Victor Retaux, 1897, p.483-484.  
+
+**Biographie** : [Sainte Scholastique]({{< relref "biographies/sainte-scholastique" >}})
 

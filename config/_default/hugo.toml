@@ -18,4 +18,5 @@ respectDoNotTrack = true
     weight = 10
 
 [taxonomies]
-  category = "categories"
+  category = "categories" 
+  index = 'index' 

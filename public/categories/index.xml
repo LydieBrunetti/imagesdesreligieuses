@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Images des religieuses</title>
-		<link>http://localhost:1313/imagesdesreligieuses/categories/</link>
+		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/</link>
 		<description>Recent content in Categories on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 13:14:59 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/imagesdesreligieuses/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Bénédictines</title>
-				<link>http://localhost:1313/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fondatrice</title>
-				<link>http://localhost:1313/imagesdesreligieuses/categories/fondatrice/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/fondatrice/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/categories/fondatrice/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/fondatrice/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>XVIIe Siècle</title>
-				<link>http://localhost:1313/imagesdesreligieuses/categories/xviie-si%C3%A8cle/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/xviie-si%C3%A8cle/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/categories/xviie-si%C3%A8cle/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/xviie-si%C3%A8cle/</guid>
 				<description></description>
 			</item>
 	</channel>

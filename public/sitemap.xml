@@ -2,53 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/index/anne-dautriche/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/anne-dautriche/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche1/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0001/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/fondatrice/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/fondatrice/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/index/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/index/louis-xiv/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/louis-xiv/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/index/philippe-de-champaigne/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/philippe-de-champaigne/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/index/saint-beno%C3%AEt/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/saint-beno%C3%AEt/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/index/sainte-scholastique/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/sainte-scholastique/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/xviie-si%C3%A8cle/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/xviie-si%C3%A8cle/</loc>
     <lastmod>2026-09-13T13:14:59+02:00</lastmod>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/about/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/about/</loc>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/analyse/</loc>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/biographies/</loc>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/privacy/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/</loc>
   </url><url>
-    <loc>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-scholastique/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/catherine-agn%C3%A8s-arnauld/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/cisterciennes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/jean-bellegambe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/jean-baptiste-de-champaigne/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/jeanne-de-boubais/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/louise-magdeleine-horthemels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/madeleine-boullogne/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/marie-ang%C3%A9lique-arnauld/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/privacy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/saint-bernard-de-clairvaux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/biographies/sainte-scholastique/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/simple-moniale/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/sup%C3%A9rieure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/vierge-marie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/xvie-si%C3%A8cle/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/categories/xviiie-si%C3%A8cle/</loc>
   </url>
 </urlset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Catherine De Sainte-Suzanne De Champaigne on Images des religieuses</title>
+		<link>http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/</link>
+		<description>Recent content in Catherine De Sainte-Suzanne De Champaigne on Images des religieuses</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ex-voto de 1662 ; La Mère Catherine-Agnès de Saint-Paul Arnauld et la Sœur Catherine de Sainte Suzanne de Champaigne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</guid>
+				<description>Philippe de Champaigne</description>
+			</item>
+	</channel>
+</rss>

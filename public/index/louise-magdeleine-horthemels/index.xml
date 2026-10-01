@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Louise-Magdeleine Horthemels on Images des religieuses</title>
+		<link>http://localhost:1313/imagesdesreligieuses/index/louise-magdeleine-horthemels/</link>
+		<description>Recent content in Louise-Magdeleine Horthemels on Images des religieuses</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/louise-magdeleine-horthemels/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Le chapitre de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</guid>
+				<description>Louise-Magdeleine Horthemels</description>
+			</item>
+			<item>
+				<title>Vue de l&#39;abbaye de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</guid>
+				<description>Louise-Magdeleine Horthemels</description>
+			</item>
+	</channel>
+</rss>

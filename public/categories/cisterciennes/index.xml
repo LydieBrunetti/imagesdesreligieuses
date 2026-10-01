@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cisterciennes on Images des religieuses</title>
+		<link>http://localhost:1313/imagesdesreligieuses/categories/cisterciennes/</link>
+		<description>Recent content in Cisterciennes on Images des religieuses</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/categories/cisterciennes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chapitre des religieuses à Port-Royal-des-Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</guid>
+				<description>Madeleine Boullogne</description>
+			</item>
+			<item>
+				<title>Distribution des aumônes au-dehors de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</guid>
+				<description>Madeleine Boullogne</description>
+			</item>
+			<item>
+				<title>Ex-voto de 1662 ; La Mère Catherine-Agnès de Saint-Paul Arnauld et la Sœur Catherine de Sainte Suzanne de Champaigne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</guid>
+				<description>Philippe de Champaigne</description>
+			</item>
+			<item>
+				<title>La Vierge protégeant l&#39;ordre de Cîteaux</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</guid>
+				<description>Jean Bellegambe</description>
+			</item>
+			<item>
+				<title>Le chapitre de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</guid>
+				<description>Louise-Magdeleine Horthemels</description>
+			</item>
+			<item>
+				<title>Les Religieuses de l&#39;abbaye de Port-Royal des Champs faisant la conférence dans &#34;la Solitude&#34;</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</guid>
+				<description>Madeleine Boullogne</description>
+			</item>
+			<item>
+				<title>Mère Marie Angélique Arnauld (1591-1661), abbesse de Port-Royal</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</guid>
+				<description>Philippe de Champaigne</description>
+			</item>
+			<item>
+				<title>Réfectoire de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</guid>
+				<description>Madeleine Boullogne</description>
+			</item>
+			<item>
+				<title>Vue de l&#39;abbaye de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</guid>
+				<description>Louise-Magdeleine Horthemels</description>
+			</item>
+	</channel>
+</rss>

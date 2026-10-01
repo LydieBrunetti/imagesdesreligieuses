@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Index on Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/index/</link>
 		<description>Recent content in Index on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,40 +12,110 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 13:14:59 +0200</lastBuildDate>
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/index/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Anne D&#39;Autriche</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/anne-dautriche/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/index/anne-dautriche/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/index/anne-dautriche/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/anne-dautriche/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Louis XIV</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/louis-xiv/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/index/louis-xiv/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/index/louis-xiv/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/louis-xiv/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Philippe De Champaigne</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/philippe-de-champaigne/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/index/philippe-de-champaigne/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/index/philippe-de-champaigne/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/philippe-de-champaigne/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Saint Benoît</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/saint-beno%C3%AEt/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/index/saint-beno%C3%AEt/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/index/saint-beno%C3%AEt/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/saint-beno%C3%AEt/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sainte Scholastique</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/sainte-scholastique/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/index/sainte-scholastique/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/index/sainte-scholastique/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/sainte-scholastique/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Catherine De Sainte-Suzanne De Champaigne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Catherine-Agnès Arnauld</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/catherine-agn%C3%A8s-arnauld/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/catherine-agn%C3%A8s-arnauld/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jean Bellegambe</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/jean-bellegambe/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/jean-bellegambe/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jean-Baptiste De Champaigne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/jean-baptiste-de-champaigne/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/jean-baptiste-de-champaigne/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jeanne De Boubais</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/jeanne-de-boubais/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/jeanne-de-boubais/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Louise-Magdeleine Horthemels</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/louise-magdeleine-horthemels/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/louise-magdeleine-horthemels/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Madeleine Boullogne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/madeleine-boullogne/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/madeleine-boullogne/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Marie-Angélique Arnauld</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/marie-ang%C3%A9lique-arnauld/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/marie-ang%C3%A9lique-arnauld/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Saint Bernard De Clairvaux</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/saint-bernard-de-clairvaux/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/saint-bernard-de-clairvaux/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vierge Marie</title>
+				<link>http://localhost:1313/imagesdesreligieuses/index/vierge-marie/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/index/vierge-marie/</guid>
 				<description></description>
 			</item>
 	</channel>

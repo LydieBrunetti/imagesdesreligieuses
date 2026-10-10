@@ -3,7 +3,7 @@ title = "Mère Marie Angélique Arnauld (1591-1661), abbesse de Port-Royal"
 summary = "Philippe de Champaigne "
 read_more_copy = "Voir la fiche"
 categories = ["Cisterciennes", "Supérieure", "XVIIe siècle"] 
-index = ["Philippe de Champaigne", "Marie-Angélique Arnauld"]
+index = ["Philippe de Champaigne", "Angélique-Marie de Sainte-Madeleine Arnauld"]
 +++
 
 ![](Fiche3.jpg)
@@ -32,7 +32,7 @@ index = ["Philippe de Champaigne", "Marie-Angélique Arnauld"]
 
 **Nom du ou des monastères d'exercice** : Abbaye de Port-Royal des Champs
 
-**Nom de la religieuse** : [Marie-Angélique Arnauld](index:Marie-Angélique-Arnauld) 
+**Nom de la religieuse** : [Angélique-Marie de Sainte-Madeleine Arnauld](index:Angélique-Marie-de-Sainte-Madeleine-Arnauld) 
 
 **Statut de la religieuse** : Abbesse
 
@@ -47,4 +47,6 @@ index = ["Philippe de Champaigne", "Marie-Angélique Arnauld"]
 **Crédits photographiques** : © Réunion des musées nationaux-Grand Palais (musée du Louvre) / Tony Querrec. Cote cliché : 11-542067.
 
 **Références bibliographiques** : STERLING Charles, _Musée du Louvre : catalogue illustré des peintures : école française XVIIème et XVIIIème siècles_, 1974, N°106 .
+
+**Biographie** : [Angélique-Marie de Sainte-Madeleine Arnauld]({{< relref "biographies/angelique-arnauld" >}})
 

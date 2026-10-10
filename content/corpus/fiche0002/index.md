@@ -3,7 +3,7 @@ title = "Ex-voto de 1662 ; La Mère Catherine-Agnès de Saint-Paul Arnauld et la
 summary = "Philippe de Champaigne "
 read_more_copy = "Voir la fiche"
 categories = ["Cisterciennes", "Supérieure", "Simple moniale", "XVIIe siècle"]
-index = ["Philippe de Champaigne", "Jean-Baptiste de Champaigne", "Catherine-Agnès Arnauld", "Catherine de Sainte-Suzanne de Champaigne"]
+index = ["Philippe de Champaigne", "Jean-Baptiste de Champaigne", "Agnès de Saint-Paul Arnauld", "Catherine de Sainte-Suzanne de Champaigne"]
 +++
 
 ![](Fiche2.jpg)
@@ -40,7 +40,7 @@ index = ["Philippe de Champaigne", "Jean-Baptiste de Champaigne", "Catherine-Agn
 
 **Nom du ou des monastères d'exercice** : Abbaye de Port-Royal des Champs
 
-**Nom de la religieuse 1** : [Catherine-Agnès Arnauld](index:Catherine-Agnès-Arnauld)  
+**Nom de la religieuse 1** : [Agnès de Saint-Paul Arnauld](index:Agnès-de-Saint-Paul-Arnauld)  
 
 **Statut de la religieuse 1** : Abbesse 
 
@@ -69,4 +69,8 @@ Article de Jean Hubac sur la base Palissy.
 DORIVAL Bernard, _Philippe de Champaigne (1602-1674) : la vie, l’œuvre et le catalogue raisonné de l’œuvre_,  Paris, Laget, 1976, 2 volumes.
 
 TAPIE Alain et Nicolas SAINTE-FARE GARNOT Nicolas dir., _Philippe de Champaigne (1602-1674). Entre politique et dévotion_, Paris, RMN,  2007.
+
+**Biographie** : [Agnès de Saint-Paul Arnauld]({{< relref "biographies/agnes-arnauld" >}})
+
+[Catherine de Sainte-Suzanne de Champaigne]({{< relref "biographies/catherine-champaigne" >}})
 

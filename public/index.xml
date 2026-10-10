@@ -21,6 +21,27 @@
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
+				<title>Agnès de Saint-Paul Arnauld</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/agnes-arnauld/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/agnes-arnauld/</guid>
+				<description>31 décembre 1593 - 19 février 1671</description>
+			</item>
+			<item>
+				<title>Angélique-Marie de Sainte-Madeleine Arnauld</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</guid>
+				<description>8 septembre 1591 - 6 août 1661</description>
+			</item>
+			<item>
+				<title>Catherine de Sainte-Suzanne de Champaigne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/catherine-champaigne/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/catherine-champaigne/</guid>
+				<description>3 octobre 1636 - 1688</description>
+			</item>
+			<item>
 				<title>Chapitre des religieuses à Port-Royal-des-Champs</title>
 				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +61,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</guid>
 				<description>Philippe de Champaigne</description>
+			</item>
+			<item>
+				<title>Jeanne de Boubais</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-de-boubais/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-de-boubais/</guid>
+				<description>XVIe siècle - 7 novembre 1534</description>
 			</item>
 			<item>
 				<title>La Vierge protégeant l&#39;ordre de Cîteaux</title>

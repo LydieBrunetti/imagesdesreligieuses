@@ -43,13 +43,21 @@
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/biographies/agnes-arnauld/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/agn%C3%A8s-de-saint-paul-arnauld/</loc>
+  </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/analyse/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/ang%C3%A9lique-marie-de-sainte-madeleine-arnauld/</loc>
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/biographies/</loc>
   </url><url>
-    <loc>http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/biographies/catherine-champaigne/</loc>
   </url><url>
-    <loc>http://localhost:1313/imagesdesreligieuses/index/catherine-agn%C3%A8s-arnauld/</loc>
+    <loc>http://localhost:1313/imagesdesreligieuses/index/catherine-de-sainte-suzanne-de-champaigne/</loc>
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</loc>
   </url><url>
@@ -63,6 +71,8 @@
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/index/jean-baptiste-de-champaigne/</loc>
   </url><url>
+    <loc>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-de-boubais/</loc>
+  </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/index/jeanne-de-boubais/</loc>
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</loc>
@@ -74,8 +84,6 @@
     <loc>http://localhost:1313/imagesdesreligieuses/index/louise-magdeleine-horthemels/</loc>
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/index/madeleine-boullogne/</loc>
-  </url><url>
-    <loc>http://localhost:1313/imagesdesreligieuses/index/marie-ang%C3%A9lique-arnauld/</loc>
   </url><url>
     <loc>http://localhost:1313/imagesdesreligieuses/privacy/</loc>
   </url><url>

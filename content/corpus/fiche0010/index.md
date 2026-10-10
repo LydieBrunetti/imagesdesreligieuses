@@ -56,3 +56,5 @@ DONADIEU-RIGAUT Dominique, _Les ordres religieux et le manteau de Marie_, Journa
 
 CAT. 1937 n° 241. Notice : Françoise Baligand.
 
+**Biographie** : [Jeanne de Boubais]({{< relref "biographies/jeanne-de-boubais" >}})
+

@@ -11,3 +11,5 @@ Chaque année, frère et sœur se retrouvent une journée dans un lieu situé en
 Au VIIème siècle, les corps de saint Benoît et sainte Scholastique sont amenés en France. Le corps de Benoît est transféré à Fleury-sur-Loire et celui de Scholastique au Mans. Ses reliques sont conservées à la collégiale Saint-Pierre-de-la-Cour. Une partie des reliques de la sainte est ensuite confiée à l’abbaye de bénédictines de Juvigny-sur-Loison par la reine Richilde qui a fondé ce monastère. 
 
 Les seuls documents anciens relatifs à la vie de sainte Scholastique sont les chapitres 33 et 34 du livre II des _Dialogues_ de saint Grégoire le Grand, que l’on retrouve dans la plupart des manuscrits du Moyen-Age sous le titre de _Vie de sainte Scholastique_. C’est à cette source unique que tous les auteurs postérieurs ont puisé, se bornant à commenter le récit de Grégoire le Grand.
+
+**Référence bibliographique** : Grégoire le Grand, _Dialogues, Tome II, Livres I-III_, édition critique d'Adalbert de Vogüé et Paul Antin, Lyon, Sources Chrétiennes, 1979.

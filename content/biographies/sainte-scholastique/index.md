@@ -1,5 +1,5 @@
 +++
-title = "Sainte Scholastique"
+title = "Scholastique (Sainte)"
 summary = "Vers 480 - vers 543"
 read_more_copy = "Voir la bio"
 +++ 

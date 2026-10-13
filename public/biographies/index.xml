@@ -19,11 +19,32 @@
 				<description>31 décembre 1593 - 19 février 1671</description>
 			</item>
 			<item>
+				<title>Angadrême de Renty (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-angadreme/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-angadreme/</guid>
+				<description>VIIe siècle - vers 695</description>
+			</item>
+			<item>
 				<title>Angélique-Marie de Sainte-Madeleine Arnauld</title>
 				<link>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</guid>
 				<description>8 septembre 1591 - 6 août 1661</description>
+			</item>
+			<item>
+				<title>Austreberthe de Pavilly (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-austreberthe/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-austreberthe/</guid>
+				<description>630 – février 704</description>
+			</item>
+			<item>
+				<title>Berthe d&#39;Avenay (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/berthe-avenay/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/berthe-avenay/</guid>
+				<description>Vers 650 – vers 690</description>
 			</item>
 			<item>
 				<title>Catherine de Sainte-Suzanne de Champaigne</title>
@@ -33,6 +54,34 @@
 				<description>3 octobre 1636 - 1688</description>
 			</item>
 			<item>
+				<title>Charlotte de Bourbon-Montpensier</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/charlotte-bourbon-montpensier/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/charlotte-bourbon-montpensier/</guid>
+				<description>1546 – 5 mai 1582</description>
+			</item>
+			<item>
+				<title>Fare de Faremoutiers (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-fare/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-fare/</guid>
+				<description>Vers 600 – vers 655</description>
+			</item>
+			<item>
+				<title>Héloïse</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/heloise/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/heloise/</guid>
+				<description>Vers 1092 – 16 mai 1164</description>
+			</item>
+			<item>
+				<title>Humbeline (Bienheureuse)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/humbeline/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/humbeline/</guid>
+				<description>1092 – vers 1141</description>
+			</item>
+			<item>
 				<title>Jeanne de Boubais</title>
 				<link>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-de-boubais/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,7 +89,56 @@
 				<description>XVIe siècle - 7 novembre 1534</description>
 			</item>
 			<item>
-				<title>Sainte Scholastique</title>
+				<title>Louise-Adélaïde d&#39;Orléans</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/louise-adelaide-orleans/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/louise-adelaide-orleans/</guid>
+				<description>13 août 1698 – 20 février 1743</description>
+			</item>
+			<item>
+				<title>Marie-Gabrielle-Eléonore de Bourbon-Condé</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/marie-gabrielle-eleonore-bourbon-conde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/marie-gabrielle-eleonore-bourbon-conde/</guid>
+				<description>22 décembre 1690 – 28 août 1760</description>
+			</item>
+			<item>
+				<title>Odile d&#39;Alsace (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-odile/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-odile/</guid>
+				<description>Vers 662 – 13 décembre 720</description>
+			</item>
+			<item>
+				<title>Opportune d&#39;Almenèches (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-opportune/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-opportune/</guid>
+				<description>Vers 720 – 22 avril 770</description>
+			</item>
+			<item>
+				<title>Radegonde de Poitiers (Sainte)</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-radegonde/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-radegonde/</guid>
+				<description>Vers 520 – 13 août 587</description>
+			</item>
+			<item>
+				<title>Renée de Bourbon-Vendôme, abbesse de Chelles</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-chelles/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-chelles/</guid>
+				<description>6 février 1527 – 1583</description>
+			</item>
+			<item>
+				<title>Renée de Bourbon, abbesse de Fontevraud</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-fontevraud/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-fontevraud/</guid>
+				<description>Mai 1468 – Novembre 1534</description>
+			</item>
+			<item>
+				<title>Scholastique (Sainte)</title>
 				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-scholastique/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-scholastique/</guid>

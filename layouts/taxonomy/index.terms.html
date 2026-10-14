@@ -1,17 +1,18 @@
 {{ define "main" }}
-  <section class="index-terms-container flex-l mw7 center ph3 flex-wrap">
-    <p class="f2 athelas mv5 mid-gray">Parcourir le corpus par mots-clés :</p>
-
-    <ul class="terms-cloud">
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+       <p class="f2 athelas mv5 mid-gray">Parcourir le corpus par mots-clés :</p>
+    </section>
+    <section class="flex flex-wrap -mx2">
       <!-- .Data.Terms contient la liste de tous les termes et leurs œuvres -->
       {{ range .Data.Terms.ByCount }}
-        <li class="term-item mv3">
-          <a href="{{ .Page.RelPermalink }}" class="f4 athelas">
-            <span class="term-name">{{ .Page.Title }}</span>
-            <span class="term-count">({{ .Count }})</span>
+        <div class="w-100 w-third-ns ph2 mb3">
+          <a href="{{ .Page.RelPermalink }}" class="link f5 grow br-pill ba ph3 pv2 mb2 mh2 blue sans-serif no-underline db tc">
+            <span>{{ .Page.Title }}</span>
+            <span>({{ .Count }})</span>
           </a>
-        </li>
+        </div>
       {{ end }}
-    </ul>
-  </section>
+    </section>
+  </article>
 {{ end }}

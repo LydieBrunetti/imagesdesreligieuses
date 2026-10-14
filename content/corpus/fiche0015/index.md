@@ -2,7 +2,7 @@
 title = "Planche de saints avec sainte Opportune"
 summary = "Jacques Callot"
 read_more_copy = "Voir la fiche"
-categories = ["Bénédicines", "Fondatrice", "XVIIe siècle"]
+categories = ["Bénédictines", "Fondatrice", "XVIIe siècle"]
 index = ["Sainte Opportune d'Almenèches", "Jacques Callot"]
 +++
 

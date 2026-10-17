@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sainte Berthe D&#39;Avenay on Images des religieuses</title>
-		<link>http://localhost:1313/imagesdesreligieuses/index/sainte-berthe-davenay/</link>
+		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/sainte-berthe-davenay/</link>
 		<description>Recent content in Sainte Berthe D&#39;Avenay on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/sainte-berthe-davenay/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/index/sainte-berthe-davenay/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>La fondation de l&#39;abbaye par sainte Berthe</title>
-				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0017/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0017/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0017/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0017/</guid>
 				<description>Attribué à Jean Hellart</description>
 			</item>
 	</channel>

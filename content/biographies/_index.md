@@ -7,4 +7,4 @@ Ce module regroupe les biographies des principales religieuses du corpus. Pour l
 
 La liste est triée par ordre alphabétique.
 
-Actuellement : 19 fiches - Work in progress !
+Actuellement : 23 fiches - Work in progress !

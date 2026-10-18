@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bénédictines on Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/</link>
 		<description>Recent content in Bénédictines on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,68 +12,68 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 13:14:59 +0200</lastBuildDate>
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/categories/b%C3%A9n%C3%A9dictines/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Anne d&#39;Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0001/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0001/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0001/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0001/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>Charlotte de Bourbon</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0016/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0016/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0016/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0016/</guid>
 				<description>Attribué à Daniël van den Queborn</description>
 			</item>
 			<item>
 				<title>Dessin de la pierre tombale d&#39;Antoinette de Luxembourg-Ligny</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0020/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0020/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0020/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0020/</guid>
 				<description>François Roger de Gaignières</description>
 			</item>
 			<item>
 				<title>Dessin de la pierre tombale de Marie de Varignières</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0013/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0013/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0013/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0013/</guid>
 				<description>François Roger de Gaignières</description>
 			</item>
 			<item>
 				<title>Isabelle IV de Bourbon-Vendôme</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0011/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0011/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0011/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0011/</guid>
 				<description>Thomas Pot</description>
 			</item>
 			<item>
 				<title>La fondation de l&#39;abbaye par sainte Berthe</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0017/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0017/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0017/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0017/</guid>
 				<description>Attribué à Jean Hellart</description>
 			</item>
 			<item>
 				<title>Louise-Adélaïde d&#39;Orléans ; Mademoiselle de Chartres </title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0014/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0014/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0014/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0014/</guid>
 				<description>Auteur anonyme</description>
 			</item>
 			<item>
 				<title>Planche de saints avec sainte Opportune</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0015/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0015/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0015/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0015/</guid>
 				<description>Jacques Callot</description>
 			</item>
 			<item>
 				<title>Renée de Bourbon</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0012/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0012/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0012/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0012/</guid>
 				<description>Thomas Pot</description>
 			</item>
 	</channel>

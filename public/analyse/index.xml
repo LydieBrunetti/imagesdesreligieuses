@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Analyses on Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/analyse/</link>
 		<description>Recent content in Analyses on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,6 +10,48 @@
 		
 		
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/analyse/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bénédictines et cisterciennes aux XVIe-XVIIIe siècles</title>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/struture-benedictines-cisterciennes/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/struture-benedictines-cisterciennes/</guid>
+				<description>Au sein du monde monastique, les bénédictines et les cisterciennes sont parmi les plus anciennes et plus prestigieuses des formes de vie religieuse féminine</description>
+			</item>
+			<item>
+				<title>Choix méthodologiques</title>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/methode-choix-methodos/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/methode-choix-methodos/</guid>
+				<description>Choix du support, délimitations temporelles et spatiales, intérêt et portée du corpus</description>
+			</item>
+			<item>
+				<title>Contexte historique et religieux</title>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/structure-contexte-historique-religieux/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/structure-contexte-historique-religieux/</guid>
+				<description>Les XVIe-XVIIIe siècles sont cruciaux pour le développement et l’évolution matérielle et spirituelle de la vie des moniales en France</description>
+			</item>
+			<item>
+				<title>Définition de l’image</title>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/structure-definition-image/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/structure-definition-image/</guid>
+				<description>Tout support matériel présentant une image visuelle des bénédictines et des cisterciennes est pris en compte dans le corpus</description>
+			</item>
+			<item>
+				<title>Méthodologie de recherche</title>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/methode-methodologie-recherche/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/methode-methodologie-recherche/</guid>
+				<description>Analyse des images et des livres anciens, documentation des œuvres, difficultés dans la recherche</description>
+			</item>
+			<item>
+				<title>Sources</title>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/sources/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/sources/</guid>
+				<description>Sources numériques et physiques du corpus</description>
+			</item>
 	</channel>
 </rss>

@@ -5,26 +5,35 @@ layout = "page"
 +++
 
 
-Le site internet "Images des religieuses" (https://lydiebrunetti.github.io/imagesdesreligieuses/) a pour objet de présenter le travail de recherche de Lydie Brunetti. Elle s’efforce de fournir sur le site des informations aussi précises que possible. Toutefois, elle ne pourra être tenue responsable des oublis, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations. Toutes les informations indiquées sur le site sont données à titre indicatif, sont susceptibles d’évoluer et ne sont pas exhaustives. Elle sont données sous réserve de modifications ayant été apportées depuis leur mise en ligne.
+Base de données et contenus scientifiques conçus et édités par Lydie Brunetti. 
+Site internet édité, conçu et géré par Lydie Brunetti.  
+Nouvelle version officielle et indépendante mise en ligne le 15 septembre 2026.  
+Tous droits réservés.  
+
 
 **Propriétaire et responsable de la publication :**   
 Lydie Brunetti - lydie.brunetti@gmail.com 
 
-Le site internet est hébergé par **GitHub** (GitHub Pages) : 
+Le site internet est hébergé par **GitHub** (GitHub Pages) :   
 GitHub, Inc.  
 88 Colin P. Kelly Jr. Street  
 San Francisco, CA 94107  
 United States  
 
 
+Le site internet "Images des religieuses" (https://lydiebrunetti.github.io/imagesdesreligieuses/) a pour objet de présenter le travail de recherche de Lydie Brunetti. Elle s’efforce de fournir sur le site des informations aussi précises que possible. Toutefois, elle ne pourra être tenue responsable des oublis, des inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations. Toutes les informations indiquées sur le site sont données à titre indicatif, sont susceptibles d’évoluer et ne sont pas exhaustives. Elle sont données sous réserve de modifications ayant été apportées depuis leur mise en ligne.  
+
+
 ### Conditions générales d'utilisation du site et des services proposés
-L’utilisation du site implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site sont donc invités à les consulter de manière régulière. Ce site internet est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance technique peut être toutefois décidée. Le site web est mis à jour régulièrement. Le site ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. L'auteure et l’hébergeur ne pourront être tenus responsables en cas de dysfonctionnement du réseau Internet, des lignes téléphoniques ou du matériel informatique et de téléphonie lié notamment à l’encombrement du réseau empêchant l’accès au serveur.
+L’utilisation du site implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site sont donc invités à les consulter de manière régulière. Ce site internet est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance technique peut être toutefois décidée. Le site web est mis à jour régulièrement. Le site ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. L'auteure et l’hébergeur ne pourront être tenus responsables en cas de dysfonctionnement du réseau Internet, des lignes téléphoniques ou du matériel informatique et de téléphonie lié notamment à l’encombrement du réseau empêchant l’accès au serveur.  
+
 
 ### Propriété intellectuelle
-Ce site relève de la législation française et internationale sur le droit d’auteur et la propriété intellectuelle. La reproduction de tout ou partie de ce site sur support électronique ou support papier (y compris les documents téléchargeables) est interdite sauf autorisation expresse. Toute exploitation non autorisée du site ou de l’un des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.
+La structure de la base de données, le corpus, les notices scientifiques ainsi que l’ensemble des textes de présentation figurant sur ce site sont la propriété intellectuelle exclusive de Lydie Brunetti.  
+Ce site relève de la législation française et internationale sur le droit d’auteur et la propriété intellectuelle. Le site ainsi que ses contenus (bases de données, textes, images animées ou fixes) sont couverts par le droit de la propriété intellectuelle et notamment par les articles L.112-2 et suivants et L.341-1 du code de la propriété intellectuelle. La reproduction de tout ou partie de ce site sur support électronique ou support papier (y compris les documents téléchargeables) est interdite sauf autorisation expresse de l'auteure. Toute exploitation non autorisée du site ou de l’un des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.
 
 ### Avertissement concernant les images utilisées dans le site
-Les images sont ici utilisées dans une perspective de recherche académique et de démonstration pédagogique dans un contexte strictement non-commercial.
+Les images sont ici utilisées dans une perspective de recherche académique et de démonstration pédagogique dans un contexte strictement non-lucratif.
 Elles ne sont pas toutes libres de droit et, par conséquent, ne peuvent faire l'objet d'une utilisation commerciale.  
 Merci de vous référer à la section "Crédits photographiques" de chacune des fiches pour contacter les personnes ou organismes ayant droits et vous enquérir auprès d'eux de leur politique de commercialisation.
 

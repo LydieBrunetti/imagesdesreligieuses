@@ -18,7 +18,7 @@ Un précédent travail de recherche (mémoire de master 2) m'a fait prendre cons
 
 ## Un sujet inédit
 
-La question de l'iconographie des bénédictines et cisterciennes a été peu traitée dans l'historiographie et souvent de façon fragmentaire. Il n’existe pas d’étude antérieure portant spécifiquement sur ce sujet qui n’a fait l’objet de synthèse. Le corpus permet de croiser l’étude de masse avec l’analyse détaillée. Le travail de collecte des œuvres vise à avoir une vision la plus globale possible, pour pouvoir repérer à la fois les grands axes de lecture des œuvres et les détails propres à chacune. La formation du corpus inédit puis sa mise en forme dans une base de données iconographique marquent la création d’un nouvel outil à destination de la communauté « historienne ». 
+La question de l'iconographie des bénédictines et cisterciennes a été peu traitée dans l'historiographie et souvent de façon fragmentaire. Il n’existe pas d’étude antérieure portant spécifiquement sur ce sujet qui n’a pas fait l’objet de synthèse. Le corpus permet de croiser l’étude de masse avec l’analyse détaillée. Le travail de collecte des œuvres vise à avoir une vision la plus globale possible, pour pouvoir repérer à la fois les grands axes de lecture des œuvres et les détails propres à chacune. La formation du corpus inédit puis sa mise en forme dans une base de données iconographique marquent la création d’un nouvel outil à destination de la communauté « historienne ». 
 
 
 ## Des moniales autonomes

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jacques Callot on Images des religieuses</title>
-		<link>http://localhost:1313/imagesdesreligieuses/index/jacques-callot/</link>
+		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/jacques-callot/</link>
 		<description>Recent content in Jacques Callot on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,12 +10,12 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/jacques-callot/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/index/jacques-callot/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Planche de saints avec sainte Opportune</title>
-				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0015/</link>
+				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0015/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0015/</guid>
+				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0015/</guid>
 				<description>Jacques Callot</description>
 			</item>
 	</channel>

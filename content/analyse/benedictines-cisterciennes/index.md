@@ -7,7 +7,7 @@ read_more_copy = "Voir le texte"
 
 ## Un bref historique
 
-Les origines du monachisme féminin bénédictin remontent au VIe siècle et sont traditionnellement attribuées à sainte Scholastique, la sœur de saint Benoît de Nursie. Scholastique rassemble autour d’elle des femmes pieuses et met en place un monastère en s’appuyant directement sur la règle de vie de son frère. La règle de saint Benoît est signalée en Gaule dès 625. Sous la direction de l’empereur Louis le Pieux et de l’abbé Benoît d’Aniane, le synode d’Aix-la-Chapelle de 817 l’impose à tous les monastères d’hommes et de femmes de l’Empire occidental.  
+Les origines du monachisme féminin bénédictin remontent au VIe siècle et sont traditionnellement attribuées à sainte Scholastique, la sœur de saint Benoît de Nursie. Scholastique rassemble autour d’elle des femmes pieuses et met en place un monastère en s’appuyant directement sur la règle de vie de son frère. La règle de saint Benoît est signalée en Gaule dès 625. Sous la direction de l’empereur Louis le Pieux et de l’abbé Benoît d’Aniane, le synode d’Aix-la-Chapelle de 817 l’impose à tous les monastères d’hommes et de femmes de l’Empire franc occidental.  
 
 La création des moniales cisterciennes intervient plus tard, à la suite du mouvement réformateur initié par saint Robert, le fondateur de l'abbaye de Cîteaux vers 1098. La grande figure de l'ordre cistercien est alors saint Bernard de Clairvaux qui convertit à la dévotion sa sœur Humbeline. Celle-ci devient religieuse mais dans une abbaye de bénédictines car il n'existe alors pas de monastères de moniales cisterciennes. Néanmoins, les cisterciennes considèrent Humbeline comme leur fondatrice. La première abbaye féminine véritablement cistercienne de par ses observances et de par son obédience directe à l’abbé de Cîteaux est l'abbaye de Tart, fondée vers 1132.
 
@@ -25,4 +25,4 @@ Les communautés de bénédictines et de cisterciennes sont soumises à différe
 
 
 
-**Référence bibliographique** : Sur les débuts des religieuses cisterciennes : Alexis GRELOIS, « L’ordre cistercien et ses religieuses des origines au début du XIVe siècle : principes généraux et diversité des statuts », dans _Liens cisterciens_, Association pour le Rayonnement de la Culture Cistercienne, n°18, 2010.  URL : http://www.arccis.org/downloads/histoiredesreligieusescisterciennes.pdf
+**Référence bibliographique** : Alexis GRELOIS, « L’ordre cistercien et ses religieuses des origines au début du XIVe siècle : principes généraux et diversité des statuts », dans _Liens cisterciens_, Association pour le Rayonnement de la Culture Cistercienne, n°18, 2010.  URL : http://www.arccis.org/downloads/histoiredesreligieusescisterciennes.pdf

@@ -28,7 +28,7 @@ index = ["Isabelle IV de Bourbon-Vendôme", "Thomas Pot", "Jésus Christ", "Vier
 
 **Congrégation** : Fontevriste
 
-**Nom du ou des monastères d'exercice** : Abbaye de Fontevraus ; Abbaye aux Dames de Caen
+**Nom du ou des monastères d'exercice** : Abbaye de Fontevraud ; Abbaye aux Dames de Caen
 
 **Nom de la religieuse** : [Isabelle IV de Bourbon-Vendôme](index:Isabelle-IV-de-Bourbon-Vendôme)
 

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Cisterciennes on Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/categories/cisterciennes/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/categories/cisterciennes/</link>
 		<description>Recent content in Cisterciennes on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,82 +10,96 @@
 		
 		
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/categories/cisterciennes/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/categories/cisterciennes/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Chapitre des religieuses à Port-Royal-des-Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0004/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0004/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
-				<title>Distribution des aumônes au-dehors de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0009/</link>
+				<title>Dessin de la pierre tombale d&#39;Etiennette de Rochefort</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0023/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0009/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0023/</guid>
+				<description>François Roger de Gaignières</description>
+			</item>
+			<item>
+				<title>Dessin de la pierre tombale de Catherine et Gabrielle de Saulx</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0024/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0024/</guid>
+				<description>François Roger de Gaignières</description>
+			</item>
+			<item>
+				<title>Distribution des aumônes au-dehors de Port-Royal des Champs</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
 				<title>Ex-voto de 1662 ; La Mère Catherine-Agnès de Saint-Paul Arnauld et la Sœur Catherine de Sainte Suzanne de Champaigne</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0002/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0002/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>La Vierge protégeant l&#39;ordre de Cîteaux</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0010/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0010/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</guid>
 				<description>Jean Bellegambe</description>
 			</item>
 			<item>
 				<title>Le chapitre de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0007/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0007/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</guid>
 				<description>Louise-Magdeleine Horthemels</description>
 			</item>
 			<item>
 				<title>Les Religieuses de l&#39;abbaye de Port-Royal des Champs faisant la conférence dans &#34;la Solitude&#34;</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0008/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0008/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
 				<title>Mère Catherine Agnès de Saint-Paul Arnauld, abbesse de Port-Royal des Champs.</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0018/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0018/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0018/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0018/</guid>
 				<description>Jean Boulanger</description>
 			</item>
 			<item>
 				<title>Mère Marie Angélique Arnauld (1591-1661), abbesse de Port-Royal</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0003/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0003/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>Mère Marie Angélique Arnauld, abbesse de Port-Royal des Champs.</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0019/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0019/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0019/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0019/</guid>
 				<description>Jean Boulanger</description>
 			</item>
 			<item>
 				<title>Réfectoire de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0006/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0006/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
 				<title>Vue de l&#39;abbaye de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0005/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0005/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</guid>
 				<description>Louise-Magdeleine Horthemels</description>
 			</item>
 	</channel>

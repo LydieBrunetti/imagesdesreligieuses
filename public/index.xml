@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/</link>
 		<description>Recent content on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -12,390 +12,495 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 13:14:59 +0200</lastBuildDate>
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Anne d&#39;Autriche et ses fils priant la Trinité avec saint Benoît et sa sœur Scholastique</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0001/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0001/</link>
 				<pubDate>Sun, 13 Sep 2026 13:14:59 +0200</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0001/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0001/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>Agnès de Saint-Paul Arnauld</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/agnes-arnauld/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/agnes-arnauld/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/agnes-arnauld/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/agnes-arnauld/</guid>
 				<description>31 décembre 1593 - 19 février 1671</description>
 			</item>
 			<item>
 				<title>Angadrême de Renty (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-angadreme/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-angadreme/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-angadreme/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-angadreme/</guid>
 				<description>VIIe siècle - vers 695</description>
 			</item>
 			<item>
 				<title>Angélique-Marie de Sainte-Madeleine Arnauld</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/angelique-arnauld/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/angelique-arnauld/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/angelique-arnauld/</guid>
 				<description>8 septembre 1591 - 6 août 1661</description>
 			</item>
 			<item>
 				<title>Austreberthe de Pavilly (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-austreberthe/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-austreberthe/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-austreberthe/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-austreberthe/</guid>
 				<description>630 – février 704</description>
 			</item>
 			<item>
 				<title>Bénédictines et cisterciennes aux XVIe-XVIIIe siècles</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/benedictines-cisterciennes/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/benedictines-cisterciennes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/benedictines-cisterciennes/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/benedictines-cisterciennes/</guid>
 				<description>Au sein du monde monastique, les bénédictines et les cisterciennes sont parmi les plus anciennes et plus prestigieuses des formes de vie religieuse féminine</description>
 			</item>
 			<item>
 				<title>Berthe d&#39;Avenay (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/berthe-avenay/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/berthe-avenay/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/berthe-avenay/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/berthe-avenay/</guid>
 				<description>Vers 650 – vers 690</description>
 			</item>
 			<item>
 				<title>Bibliographie sélective</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/bibliographie/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/bibliographie/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/bibliographie/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/bibliographie/</guid>
 				<description>Quelques références bibliographiques générales utiles</description>
 			</item>
 			<item>
 				<title>Blanche de Castille</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/blanche-de-castille/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/blanche-de-castille/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/blanche-de-castille/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/blanche-de-castille/</guid>
 				<description>4 mars 1188 – 27 novembre 1252</description>
 			</item>
 			<item>
 				<title>Buts recherchés</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/buts/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/buts/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/buts/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/buts/</guid>
 				<description>L&amp;rsquo;iconographique des bénédictines et des cisterciennes est une source plurielle qui assure différentes fonctions.</description>
 			</item>
 			<item>
 				<title>Catherine de Sainte-Suzanne de Champaigne</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/catherine-champaigne/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/catherine-champaigne/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/catherine-champaigne/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/catherine-champaigne/</guid>
 				<description>3 octobre 1636 - 1688</description>
 			</item>
 			<item>
 				<title>Chapitre des religieuses à Port-Royal-des-Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0004/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0004/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0004/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
 				<title>Charlotte de Bourbon</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0016/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0016/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0016/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0016/</guid>
 				<description>Attribué à Daniël van den Queborn</description>
 			</item>
 			<item>
 				<title>Charlotte de Bourbon-Montpensier</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/charlotte-bourbon-montpensier/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/charlotte-bourbon-montpensier/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/charlotte-bourbon-montpensier/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/charlotte-bourbon-montpensier/</guid>
 				<description>1546 – 5 mai 1582</description>
 			</item>
 			<item>
 				<title>Choix méthodologiques</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/choix-methodos/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/choix-methodos/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/choix-methodos/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/choix-methodos/</guid>
 				<description>Choix du support, délimitations temporelles et spatiales, intérêt et portée du corpus</description>
 			</item>
 			<item>
 				<title>Commanditaires</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/commanditaires/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/commanditaires/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/commanditaires/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/commanditaires/</guid>
 				<description>Il est possible de connaitre le ou les commanditaires d’un certain nombre de représentations, soit par une mention explicite sur l’œuvre comme la présence d’un nom ou d’un blason, soit par l’examen de la documentation liée à l’œuvre comme le contrat de commande ou les livres de comptes, soit par une attribution traditionnelle de la commande à une personne particulière</description>
 			</item>
 			<item>
 				<title>Contexte historique et religieux</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/contexte-historique-religieux/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/contexte-historique-religieux/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/contexte-historique-religieux/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/contexte-historique-religieux/</guid>
 				<description>Les XVIe-XVIIIe siècles sont cruciaux pour le développement et l’évolution matérielle et spirituelle de la vie des moniales en France</description>
 			</item>
 			<item>
 				<title>Définition de l’image</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/definition-image/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/definition-image/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/definition-image/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/definition-image/</guid>
 				<description>Tout support matériel présentant une image visuelle des bénédictines et des cisterciennes est pris en compte dans le corpus</description>
 			</item>
 			<item>
 				<title>Dessin de la pierre tombale d&#39;Antoinette de Luxembourg-Ligny</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0020/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0020/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0020/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0020/</guid>
+				<description>François Roger de Gaignières</description>
+			</item>
+			<item>
+				<title>Dessin de la pierre tombale d&#39;Etiennette de Rochefort</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0023/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0023/</guid>
+				<description>François Roger de Gaignières</description>
+			</item>
+			<item>
+				<title>Dessin de la pierre tombale de Catherine et Gabrielle de Saulx</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0024/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0024/</guid>
 				<description>François Roger de Gaignières</description>
 			</item>
 			<item>
 				<title>Dessin de la pierre tombale de Marie de Varignières</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0013/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0013/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0013/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0013/</guid>
 				<description>François Roger de Gaignières</description>
 			</item>
 			<item>
 				<title>Distribution des aumônes au-dehors de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0009/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0009/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0009/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
-				<title>Ex-voto de 1662 ; La Mère Catherine-Agnès de Saint-Paul Arnauld et la Sœur Catherine de Sainte Suzanne de Champaigne</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0002/</link>
+				<title>Eléonore de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/eleonore-de-bourbon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0002/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/eleonore-de-bourbon/</guid>
+				<description>1532 - 1611</description>
+			</item>
+			<item>
+				<title>Eléonore de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0029/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0029/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+			<item>
+				<title>Et nous aussi nous serons mères; car ....... !</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0025/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0025/</guid>
+				<description>Jean-Jacques Lequeu</description>
+			</item>
+			<item>
+				<title>Ex-voto de 1662 ; La Mère Catherine-Agnès de Saint-Paul Arnauld et la Sœur Catherine de Sainte Suzanne de Champaigne</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0002/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>Fare de Faremoutiers (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-fare/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-fare/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-fare/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-fare/</guid>
 				<description>Vers 600 – vers 655</description>
 			</item>
 			<item>
 				<title>Françoise de Foix II</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-ii/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-ii/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-ii/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-ii/</guid>
 				<description>1er juillet 1582 – 4 avril 1666</description>
 			</item>
 			<item>
 				<title>Françoise de Foix III</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-iii/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-iii/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-iii/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/fran%C3%A7oise-de-foix-iii/</guid>
 				<description>1614 – 17 octobre 1686</description>
 			</item>
 			<item>
-				<title>Héloïse</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/heloise/</link>
+				<title>Françoise II de Foix, abbesse de Notre-Dame de Saintes</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0021/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/heloise/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0021/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+			<item>
+				<title>Françoise III de Foix, abbesse de Notre-Dame de Saintes</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0022/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0022/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+			<item>
+				<title>Héloïse</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/heloise/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/heloise/</guid>
 				<description>Vers 1092 – 16 mai 1164</description>
 			</item>
 			<item>
 				<title>Humbeline (Bienheureuse)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/humbeline/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/humbeline/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/humbeline/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/humbeline/</guid>
 				<description>1092 – vers 1141</description>
 			</item>
 			<item>
 				<title>Isabelle IV de Bourbon-Vendôme</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0011/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0011/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0011/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0011/</guid>
 				<description>Thomas Pot</description>
 			</item>
 			<item>
 				<title>Jeanne de Boubais</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/jeanne-de-boubais/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-de-boubais/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/jeanne-de-boubais/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-de-boubais/</guid>
 				<description>XVIe siècle - 7 novembre 1534</description>
 			</item>
 			<item>
-				<title>Journal des modifications</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/versions/</link>
+				<title>Jeanne-Baptiste de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-baptiste-de-bourbon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/versions/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/jeanne-baptiste-de-bourbon/</guid>
+				<description>1608 – 16 janvier 1670</description>
+			</item>
+			<item>
+				<title>Jeanne-Baptiste de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0027/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0027/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+			<item>
+				<title>Journal des modifications</title>
+				<link>http://localhost:1313/imagesdesreligieuses/versions/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/versions/</guid>
 				<description>&lt;h3 id=&#34;version-16-19102026&#34;&gt;Version 1.6 (19/10/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mise en place du tri par catégories dans le corpus&lt;/li&gt;&#xA;&lt;li&gt;Création des pages de catégories&lt;/li&gt;&#xA;&lt;li&gt;Création de la page de Versions&lt;/li&gt;&#xA;&lt;li&gt;Customisation visuelle de la page de l&amp;rsquo;index&lt;/li&gt;&#xA;&lt;li&gt;Mise en place d&amp;rsquo;une barre de recherche sur la page d&amp;rsquo;index&lt;/li&gt;&#xA;&lt;li&gt;Mise en ligne de 4 biographies&lt;/li&gt;&#xA;&lt;li&gt;Rédaction et mise en ligne de 10 textes d&amp;rsquo;analyse&lt;/li&gt;&#xA;&lt;li&gt;Rédaction et mise en ligne du texte &amp;ldquo;A propos de l&amp;rsquo;auteure&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;version-15-13102026&#34;&gt;Version 1.5 (13/10/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mise en ligne de 20 fiches image&lt;/li&gt;&#xA;&lt;li&gt;Mise en ligne de 19 biographies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;version-14-30092026&#34;&gt;Version 1.4 (30/09/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mise en place de l&amp;rsquo;indexation pour les fiches image&lt;/li&gt;&#xA;&lt;li&gt;Création de la page d&amp;rsquo;index&lt;/li&gt;&#xA;&lt;li&gt;Mise en ligne d&amp;rsquo;une première biographie&lt;/li&gt;&#xA;&lt;li&gt;Mise en place des liens entre fiche image, biographie et termes indexés&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;version-13-29092026&#34;&gt;Version 1.3 (29/09/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mise en place des catégories pour les fiches image&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;version-12-17092026&#34;&gt;Version 1.2 (17/09/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Création et mise en place du lien ORCID et du lien email&lt;/li&gt;&#xA;&lt;li&gt;Mise en page : couleur des icones et ajustement de la taille des images du bandeau&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;version-11-16092026&#34;&gt;Version 1.1 (16/09/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mise en place du pied de page&lt;/li&gt;&#xA;&lt;li&gt;Création de la page de mentions légales&lt;/li&gt;&#xA;&lt;li&gt;Mise en place des liens vers les réseaux sociaux&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;version-10-15092026&#34;&gt;Version 1.0 (15/09/2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mise en ligne de la nouvelle infrastructure indépendante sur GitHub Pages&lt;/li&gt;&#xA;&lt;li&gt;Mise en place de la structure générale du site&lt;/li&gt;&#xA;&lt;li&gt;Mise en place de l&amp;rsquo;entête&lt;/li&gt;&#xA;&lt;li&gt;Structuration du menu et de la navigation&lt;/li&gt;&#xA;&lt;li&gt;Mise en ligne d&amp;rsquo;une première &amp;ldquo;fiche image&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Rédaction et mise en ligne du texte de présentation générale&lt;/li&gt;&#xA;&lt;li&gt;Création d&amp;rsquo;un fichier LICENSE (Creatives Commons Attribution-NonCommercial 4.0 International)&lt;/li&gt;&#xA;&lt;li&gt;Création d&amp;rsquo;un fichier README&lt;/li&gt;&#xA;&lt;li&gt;Création du script de déploiement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;historique-2013-2026&#34;&gt;Historique (2013-2026)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Corpus conçu et réalisé sous Access pendant mon doctorat (2013-2017) et présenté lors de ma soutenance de thèse le 7 décembre 2017&lt;/li&gt;&#xA;&lt;li&gt;Corpus toiletté et données actualisées sous Excel en 2018&lt;/li&gt;&#xA;&lt;li&gt;Mise en ligne d&amp;rsquo;un premier site en avril 2019 en collaboration avec le CERCOR&lt;/li&gt;&#xA;&lt;li&gt;Publication du jeu de données brut de référence sur Zenodo le 23 août 2026. DOI : &#xD;&#xA;&#xD;&#xA;  &lt;a href=&#34;https://doi.org/10.5281/zenodo.22071653&#34;&gt;https://doi.org/10.5281/zenodo.22071653&lt;/a&gt;&#xD;&#xA;  (fichiers Access, Excel et CSV)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>La fondation de l&#39;abbaye par sainte Berthe</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0017/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0017/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0017/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0017/</guid>
 				<description>Attribué à Jean Hellart</description>
 			</item>
 			<item>
 				<title>La Vierge protégeant l&#39;ordre de Cîteaux</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0010/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0010/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0010/</guid>
 				<description>Jean Bellegambe</description>
 			</item>
 			<item>
 				<title>Le chapitre de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0007/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0007/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0007/</guid>
 				<description>Louise-Magdeleine Horthemels</description>
 			</item>
 			<item>
 				<title>Les Religieuses de l&#39;abbaye de Port-Royal des Champs faisant la conférence dans &#34;la Solitude&#34;</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0008/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0008/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0008/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
-				<title>Louise-Adélaïde d&#39;Orléans</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/louise-adelaide-orleans/</link>
+				<title>Louise de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/louise-de-bourbon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/louise-adelaide-orleans/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/louise-de-bourbon/</guid>
+				<description>1er mai 1495 – le 21 septembre 1575</description>
+			</item>
+			<item>
+				<title>Louise de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0028/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0028/</guid>
+				<description>Thomas Pot</description>
+			</item>
+			<item>
+				<title>Louise de Bourbon-Lavedan</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/louise-de-bourbon-lavedan/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/louise-de-bourbon-lavedan/</guid>
+				<description>21 octobre 1548 – 11 janvier 1637</description>
+			</item>
+			<item>
+				<title>Louise de Bourbon-Lavedan</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0030/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0030/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+			<item>
+				<title>Louise-Adélaïde d&#39;Orléans</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/louise-adelaide-orleans/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/louise-adelaide-orleans/</guid>
 				<description>13 août 1698 – 20 février 1743</description>
 			</item>
 			<item>
 				<title>Louise-Adélaïde d&#39;Orléans ; Mademoiselle de Chartres </title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0014/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0014/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0014/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0014/</guid>
 				<description>Auteur anonyme</description>
 			</item>
 			<item>
 				<title>Marie-Gabrielle-Eléonore de Bourbon-Condé</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/marie-gabrielle-eleonore-bourbon-conde/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/marie-gabrielle-eleonore-bourbon-conde/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/marie-gabrielle-eleonore-bourbon-conde/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/marie-gabrielle-eleonore-bourbon-conde/</guid>
 				<description>22 décembre 1690 – 28 août 1760</description>
 			</item>
 			<item>
-				<title>Mathilde de Garlande</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/mathilde-de-garlande/</link>
+				<title>Marie-Madeleine-Gabrielle de Rochechouart de Mortemart</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/marie-madeleine-gabrielle-de-rochechouart-de-mortemart/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/mathilde-de-garlande/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/marie-madeleine-gabrielle-de-rochechouart-de-mortemart/</guid>
+				<description>1645 – 15 août 1704</description>
+			</item>
+			<item>
+				<title>Marie-Madeleine-Gabrielle de Rochechouart de Mortemart, abbesse de Fontevraud</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0026/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0026/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+			<item>
+				<title>Mathilde de Garlande</title>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/mathilde-de-garlande/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/mathilde-de-garlande/</guid>
 				<description>1150 – 26 mars 1224</description>
 			</item>
 			<item>
 				<title>Mentions légales</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/privacy/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/privacy/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/privacy/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/privacy/</guid>
 				<description>&lt;p&gt;Base de données et contenus scientifiques conçus et édités par Lydie Brunetti.&#xA;Site internet édité, conçu et géré par Lydie Brunetti.&lt;br&gt;&#xA;Nouvelle version officielle et indépendante mise en ligne le 15 septembre 2026.&lt;br&gt;&#xA;Tous droits réservés.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Propriétaire et responsable de la publication :&lt;/strong&gt;&lt;br&gt;&#xA;Lydie Brunetti - &#xD;&#xA;&#xD;&#xA;  &lt;a href=&#34;mailto:lydie.brunetti@gmail.com&#34;&gt;lydie.brunetti@gmail.com&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;Le site internet est hébergé par &lt;strong&gt;GitHub&lt;/strong&gt; (GitHub Pages) :&lt;br&gt;&#xA;GitHub, Inc.&lt;br&gt;&#xA;88 Colin P. Kelly Jr. Street&lt;br&gt;&#xA;San Francisco, CA 94107&lt;br&gt;&#xA;United States&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Mère Catherine Agnès de Saint-Paul Arnauld, abbesse de Port-Royal des Champs.</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0018/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0018/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0018/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0018/</guid>
 				<description>Jean Boulanger</description>
 			</item>
 			<item>
 				<title>Mère Marie Angélique Arnauld (1591-1661), abbesse de Port-Royal</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0003/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0003/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0003/</guid>
 				<description>Philippe de Champaigne</description>
 			</item>
 			<item>
 				<title>Mère Marie Angélique Arnauld, abbesse de Port-Royal des Champs.</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0019/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0019/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0019/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0019/</guid>
 				<description>Jean Boulanger</description>
 			</item>
 			<item>
 				<title>Méthodologie de recherche</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/methodologie-recherche/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/methodologie-recherche/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/methodologie-recherche/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/methodologie-recherche/</guid>
 				<description>Analyse des images et des livres anciens, documentation des œuvres, difficultés dans la recherche</description>
 			</item>
 			<item>
 				<title>Odile d&#39;Alsace (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-odile/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-odile/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-odile/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-odile/</guid>
 				<description>Vers 662 – 13 décembre 720</description>
 			</item>
 			<item>
 				<title>Opportune d&#39;Almenèches (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-opportune/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-opportune/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-opportune/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-opportune/</guid>
 				<description>Vers 720 – 22 avril 770</description>
 			</item>
 			<item>
 				<title>Planche de saints avec sainte Opportune</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0015/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0015/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0015/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0015/</guid>
 				<description>Jacques Callot</description>
 			</item>
 			<item>
 				<title>Publics visés</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/publics-vises/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/publics-vises/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/publics-vises/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/publics-vises/</guid>
 				<description>Les images des bénédictines et des cisterciennes s’adressent à des publics variés dans leur composition sociale, leurs références culturelles et leurs aspirations</description>
 			</item>
 			<item>
 				<title>Radegonde de Poitiers (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-radegonde/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-radegonde/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-radegonde/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-radegonde/</guid>
 				<description>Vers 520 – 13 août 587</description>
 			</item>
 			<item>
 				<title>Réfectoire de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0006/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0006/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0006/</guid>
 				<description>Madeleine Boullogne</description>
 			</item>
 			<item>
 				<title>Renée de Bourbon</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0012/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0012/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0012/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0012/</guid>
 				<description>Thomas Pot</description>
 			</item>
 			<item>
 				<title>Renée de Bourbon-Vendôme, abbesse de Chelles</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/renee-bourbon-chelles/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-chelles/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/renee-bourbon-chelles/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-chelles/</guid>
 				<description>6 février 1527 – 1583</description>
 			</item>
 			<item>
 				<title>Renée de Bourbon, abbesse de Fontevraud</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/renee-bourbon-fontevraud/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-fontevraud/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/renee-bourbon-fontevraud/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/renee-bourbon-fontevraud/</guid>
 				<description>Mai 1468 – Novembre 1534</description>
 			</item>
 			<item>
 				<title>Scholastique (Sainte)</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-scholastique/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/biographies/sainte-scholastique/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/biographies/sainte-scholastique/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/biographies/sainte-scholastique/</guid>
 				<description>Vers 480 - vers 543</description>
 			</item>
 			<item>
 				<title>Sources</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/sources/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/sources/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/sources/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/sources/</guid>
 				<description>Sources numériques et physiques du corpus</description>
 			</item>
 			<item>
 				<title>Vue de l&#39;abbaye de Port-Royal des Champs</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0005/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0005/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0005/</guid>
 				<description>Louise-Magdeleine Horthemels</description>
 			</item>
 	</channel>

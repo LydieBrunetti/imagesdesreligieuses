@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Analyses on Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/analyse/</link>
 		<description>Recent content in Analyses on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,75 +10,75 @@
 		
 		
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/analyse/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Bénédictines et cisterciennes aux XVIe-XVIIIe siècles</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/benedictines-cisterciennes/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/benedictines-cisterciennes/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/benedictines-cisterciennes/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/benedictines-cisterciennes/</guid>
 				<description>Au sein du monde monastique, les bénédictines et les cisterciennes sont parmi les plus anciennes et plus prestigieuses des formes de vie religieuse féminine</description>
 			</item>
 			<item>
 				<title>Bibliographie sélective</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/bibliographie/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/bibliographie/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/bibliographie/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/bibliographie/</guid>
 				<description>Quelques références bibliographiques générales utiles</description>
 			</item>
 			<item>
 				<title>Buts recherchés</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/buts/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/buts/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/buts/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/buts/</guid>
 				<description>L&amp;rsquo;iconographique des bénédictines et des cisterciennes est une source plurielle qui assure différentes fonctions.</description>
 			</item>
 			<item>
 				<title>Choix méthodologiques</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/choix-methodos/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/choix-methodos/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/choix-methodos/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/choix-methodos/</guid>
 				<description>Choix du support, délimitations temporelles et spatiales, intérêt et portée du corpus</description>
 			</item>
 			<item>
 				<title>Commanditaires</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/commanditaires/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/commanditaires/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/commanditaires/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/commanditaires/</guid>
 				<description>Il est possible de connaitre le ou les commanditaires d’un certain nombre de représentations, soit par une mention explicite sur l’œuvre comme la présence d’un nom ou d’un blason, soit par l’examen de la documentation liée à l’œuvre comme le contrat de commande ou les livres de comptes, soit par une attribution traditionnelle de la commande à une personne particulière</description>
 			</item>
 			<item>
 				<title>Contexte historique et religieux</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/contexte-historique-religieux/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/contexte-historique-religieux/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/contexte-historique-religieux/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/contexte-historique-religieux/</guid>
 				<description>Les XVIe-XVIIIe siècles sont cruciaux pour le développement et l’évolution matérielle et spirituelle de la vie des moniales en France</description>
 			</item>
 			<item>
 				<title>Définition de l’image</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/definition-image/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/definition-image/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/definition-image/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/definition-image/</guid>
 				<description>Tout support matériel présentant une image visuelle des bénédictines et des cisterciennes est pris en compte dans le corpus</description>
 			</item>
 			<item>
 				<title>Méthodologie de recherche</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/methodologie-recherche/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/methodologie-recherche/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/methodologie-recherche/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/methodologie-recherche/</guid>
 				<description>Analyse des images et des livres anciens, documentation des œuvres, difficultés dans la recherche</description>
 			</item>
 			<item>
 				<title>Publics visés</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/publics-vises/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/publics-vises/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/publics-vises/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/publics-vises/</guid>
 				<description>Les images des bénédictines et des cisterciennes s’adressent à des publics variés dans leur composition sociale, leurs références culturelles et leurs aspirations</description>
 			</item>
 			<item>
 				<title>Sources</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/sources/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/analyse/sources/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/analyse/sources/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/analyse/sources/</guid>
 				<description>Sources numériques et physiques du corpus</description>
 			</item>
 	</channel>

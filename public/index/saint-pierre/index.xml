@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Saint Pierre on Images des religieuses</title>
+		<link>http://localhost:1313/imagesdesreligieuses/index/saint-pierre/</link>
+		<description>Recent content in Saint Pierre on Images des religieuses</description>
+		<generator>Hugo</generator>
+		<language>fr</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/saint-pierre/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Eléonore de Bourbon</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0029/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0029/</guid>
+				<description>Auteur anonyme</description>
+			</item>
+	</channel>
+</rss>

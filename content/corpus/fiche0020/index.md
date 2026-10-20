@@ -22,7 +22,7 @@ index = ["Antoinette de Luxembourg-Ligny", "François Roger de Gaignières"]
 
 **Matériaux/Techniques** : Dessin à la plume.
 
-**Lieu de conservation actuel** : Bibliothèque nationale de France, N° d'inventaire : Est. RESERVE Pe-5-Fol.
+**Lieu de conservation actuel** : Bibliothèque nationale de France, n° d'inventaire : Est. RESERVE Pe-5-Fol.
 
 **Série** : Fait partie d'un ensemble de dessins de pierres tombales récollées par ou pour François Roger de Gaignières.
 

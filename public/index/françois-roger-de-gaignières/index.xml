@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>François Roger De Gaignières on Images des religieuses</title>
-		<link>https://lydiebrunetti.github.io/imagesdesreligieuses/index/fran%C3%A7ois-roger-de-gaigni%C3%A8res/</link>
+		<link>http://localhost:1313/imagesdesreligieuses/index/fran%C3%A7ois-roger-de-gaigni%C3%A8res/</link>
 		<description>Recent content in François Roger De Gaignières on Images des religieuses</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,19 +10,33 @@
 		
 		
 		
-			<atom:link href="https://lydiebrunetti.github.io/imagesdesreligieuses/index/fran%C3%A7ois-roger-de-gaigni%C3%A8res/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/imagesdesreligieuses/index/fran%C3%A7ois-roger-de-gaigni%C3%A8res/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Dessin de la pierre tombale d&#39;Antoinette de Luxembourg-Ligny</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0020/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0020/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0020/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0020/</guid>
+				<description>François Roger de Gaignières</description>
+			</item>
+			<item>
+				<title>Dessin de la pierre tombale d&#39;Etiennette de Rochefort</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0023/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0023/</guid>
+				<description>François Roger de Gaignières</description>
+			</item>
+			<item>
+				<title>Dessin de la pierre tombale de Catherine et Gabrielle de Saulx</title>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0024/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0024/</guid>
 				<description>François Roger de Gaignières</description>
 			</item>
 			<item>
 				<title>Dessin de la pierre tombale de Marie de Varignières</title>
-				<link>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0013/</link>
+				<link>http://localhost:1313/imagesdesreligieuses/corpus/fiche0013/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://lydiebrunetti.github.io/imagesdesreligieuses/corpus/fiche0013/</guid>
+				<guid>http://localhost:1313/imagesdesreligieuses/corpus/fiche0013/</guid>
 				<description>François Roger de Gaignières</description>
 			</item>
 	</channel>
